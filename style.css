@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(197, 239, 239);
+    background-image: url(https://avatars.mds.yandex.net/i?id=2678842b1d8c6220e0589d90af9a0d2f95047847-10131513-images-thumbs&n=13);
+}
+h1{
+    color: darkblue;
+    font-size: 30px;
+    
+}
+h2{
+    color: #f64d14;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    background-color: rgb(247, 247, 219);
+}
+ul{
+    font-size: 25px;
+   aligncenter {
+    text-align: center;
+}
+
+}
+a{
+    background-color: rgb(246, 246, 9);
+}
